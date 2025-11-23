@@ -97,7 +97,7 @@
     Implemented data preprocessing, augmentation, and a convolutional neural network to classify regions of interest,
     with the goal of supporting safer urban infrastructure and enforcement workflows.
     <br/>
-    <a href="https://github.com/riya21parikh/CarDetectionBikeLane" target="_blank">Code</a>
+    <a href="https://github.com/riya21parikh/CarInBikeLane" target="_blank">Code</a>
   </li>
   <br/>
 
