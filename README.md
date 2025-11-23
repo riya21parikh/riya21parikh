@@ -123,7 +123,7 @@
   <br/>
 
   <li>
-    <strong>Robustifying Label Classification with CNNs under Noisy Labels</strong><br/>
+    <strong>Robustifying Label Classification with CNNs under Noisy Labels (Keras)</strong><br/>
     Investigated how convolutional neural networks behave under intentionally corrupted labels and
     explored strategies to reclassify mislabelled images. Designed experiments with confidence-based
     reweighting and iterative relabelling to improve robustness and recover performance in the presence
