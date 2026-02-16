@@ -1,5 +1,5 @@
 <h1 align="center">Riya Parikh 👋</h1>
-<h3 align="center">Aspiring Machine Learning Engineer · Data Scientist · Technical Project Manager</h3>
+<h3 align="center">Aspiring Machine Learning Engineer · Data Scientist · Technical Product Manager</h3>
 
 <p align="center">
   <strong>📍 Greater Boston Area · Cambridge/Boston, MA · Open to NYC, NY roles</strong>
@@ -45,13 +45,13 @@
     <strong>🧑‍💻 Programming:</strong> Python, SQL, R, Julia, Rust
   </li>
   <li>
-    <strong>🤖 ML / DL / NLP:</strong> PyTorch, TensorFlow, Keras, scikit-learn, NLTK, Hugging Face
+    <strong>🤖 ML / DL / NLP:</strong> PyTorch, TensorFlow, Keras, scikit-learn, NLTK, Hugging Face, YOLOv8/ViT/SegFormer/U-Net (CV)
   </li>
   <li>
     <strong>📊 Optimization:</strong> Gurobi, IAI (Interpretable AI)
   </li>
   <li>
-    <strong>🗄️ Data & Infra:</strong> Snowflake, Microsoft Azure, ChromaDB
+    <strong>🗄️ Data & Infra:</strong> Snowflake, Microsoft Azure, ChromaDB, Git
   </li>
   <li>
     <strong>📈 Reporting & Analytics:</strong> Excel, Power BI, Tableau
@@ -79,7 +79,9 @@
     Implemented data preprocessing, augmentation, and a CNN-based classifier to support safer urban
     infrastructure and enforcement workflows.
     <br/>
-    <a href="https://github.com/riya21parikh/CarInBikeLane" target="_blank">Code</a>
+    <i>Methods: YOLOv8 • ViT • SegFormer • U-Net • model comparison + error analysis
+ <br/><i>Outputs: obstruction detection pipeline • evaluation dashboards
+    <a href="https://github.com/riya21parikh/CarInBikeLane" target="_blank"><br/>Code</a>
   </li>
   <br/>
 
@@ -89,7 +91,9 @@
     retrieval-augmented generation to ground responses in statutes and case documents, reducing
     hallucinations and improving trustworthiness.
     <br/>
-    <a href="https://github.com/riya21parikh/SPARKml-bu-legal-agent" target="_blank">Code</a>
+    <i>Methods: RAG • ChromaDB • HuggingFace • Gradio • hallucination prevention + citations
+ <br/><i>Outputs: user facing chatbot deployed 
+    <a href="https://github.com/riya21parikh/SPARKml-bu-legal-agent" target="_blank"><br/>Code</a>
   </li>
   <br/>
 
@@ -98,6 +102,8 @@
     Formulated a two-stage mixed-integer optimization model in Julia/JuMP to allocate residents across
     limited-capacity cyclone shelters, analyzing trade-offs between travel burden, capacity utilization,
     and robustness under uncertainty.
+<br/><i>Methods: geospatial optimization • coverage models • robust optimization • Python/Julia • Gurobi
+<br/><i>Outputs: risk/coverage maps • optimized shelter allocation policies
     <br/>
     <a href="https://github.com/riya21parikh/CycloneShelterOptimization" target="_blank">Code</a>
   </li>
@@ -108,6 +114,8 @@
     Studied CNN behavior under intentionally corrupted labels and designed confidence-based reweighting
     and iterative relabeling strategies to recover performance in noisy training regimes.
     <br/>
-    <a href="https://github.com/riya21parikh/ParikhSamuolisReclassificationNN" target="_blank">Code</a>
+    <i>Methods: CNNs • VGG16 • ImageNet • Keras/TensorFlow 
+ <br/><i>Outputs: error evaluation dashboard
+    <a href="https://github.com/riya21parikh/ParikhSamuolisReclassificationNN" target="_blank"><br/>Code</a>
   </li>
 </ul>
