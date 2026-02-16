@@ -75,7 +75,7 @@
 <ul>
   <li>
     <strong>🚲 Car-in-Bike-Lane Detection (Computer Vision, PyTorch)</strong><br/>
-    Built a computer vision pipeline to detect cars illegally occupying bike lanes using street imagery.
+     <i>Built a computer vision pipeline to detect cars illegally occupying bike lanes using street imagery.
     Implemented data preprocessing, augmentation, and a CNN-based classifier to support safer urban
     infrastructure and enforcement workflows.
     <br/>
