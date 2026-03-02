@@ -11,13 +11,13 @@
 
 <ul>
   <li>
-    <strong>🎓 Current:</strong> Master of Business Analytics (MBAn) candidate at MIT Sloan, focusing on machine learning, optimization, and data-driven decision-making.
+    <strong>🎓 Current:</strong> Master of Business Analytics (MBAn) candidate at MIT Sloan, focusing on machine learning, optimization, and data-driven decision-making. Conducting research in the LIDS Lab with Professor Chara Podimata, focused on learning dynamics of in context learning, incentive-aware AI, social computing, online learning, and mechanism design.
   </li>
   <li>
     <strong>📘 Background:</strong> B.S. in Data Science from Boston University, graduated <em>summa cum laude</em> in 3 years.
   </li>
   <li>
-    <strong>🧠 Interests:</strong> Working at the intersection of machine learning and operations research; building deep learning + optimization systems; end-to-end ML pipelines; model interpretability; and technical product management for AI/ML products.
+    <strong>🧠 Interests:</strong> Working at the intersection of machine learning and operations research; building deep learning + optimization systems; end-to-end ML pipelines; model interpretability and RLHF.  Recently, I've been thinking a lot about policy questions related to AI and recommendation systems, both from a mathetical and a practical point-of-view.
   </li>
   <li>
     <strong>🛠️ Hands-on with:</strong> Python, Julia, PyTorch, TensorFlow, scikit-learn, and modern optimization methods for ML.
